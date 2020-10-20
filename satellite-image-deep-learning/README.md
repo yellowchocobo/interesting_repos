@@ -5,4 +5,5 @@
 https://github.com/robmarkcole/satellite-image-deep-learning#interesting-deep-learning-projects
 * GoogleEarth tutorials and ++
 https://github.com/gee-community/example-scripts
-
+* GoogleEarth community
+https://github.com/gee-community
